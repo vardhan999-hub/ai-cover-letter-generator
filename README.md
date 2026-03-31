@@ -7,9 +7,9 @@ This web application generates **personalized cover letters** using the Google G
 Just enter your details, paste the job description, and optionally upload your resume — the app will generate a professional cover letter in seconds.
 
 
-## 🔗 Live Demo  
-
-👉 https://ai-cover-letter-generator-5k5v.vercel.app 
+🔗
+Live Demo:
+https://ai-cover-letter-generator-5k5v.vercel.app 
 GitHub:
 https://github.com/vardhan999-hub/ai-cover-letter-generator
 
