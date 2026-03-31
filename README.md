@@ -10,6 +10,8 @@ Just enter your details, paste the job description, and optionally upload your r
 🔗
 Live Demo:
 https://ai-cover-letter-generator-5k5v.vercel.app 
+
+
 GitHub:
 https://github.com/vardhan999-hub/ai-cover-letter-generator
 
